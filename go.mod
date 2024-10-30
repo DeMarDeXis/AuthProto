@@ -1,4 +1,4 @@
-module github.com/DeMarDeXis/protos
+module github.com/DeMarDeXis/AuthProto
 
 go 1.22.4
 
